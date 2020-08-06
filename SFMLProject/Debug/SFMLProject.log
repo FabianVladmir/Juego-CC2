@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(14,38): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(14,26): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(189,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(207,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(227,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(244,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(245,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(278,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(279,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(376,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\source\repos\SFMLProject\SFMLProject\Source.cpp(398,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  SFMLProject.vcxproj -> C:\Users\User\source\repos\SFMLProject\Debug\SFMLProject.exe
